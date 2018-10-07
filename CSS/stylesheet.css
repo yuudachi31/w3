@@ -5,7 +5,8 @@ html{
 
 body{ max-width: 1260px;
     max-height: 940px;
-   
+    width: 1260px;
+    height: 940px;
     background-color: #EDF2C5;
    
 }
